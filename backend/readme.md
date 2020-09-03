@@ -25,4 +25,4 @@ FRONTEND:
 
 
 ## License
-Philippe ABEILHOU OpenClassrooms P7 GROUPOMANIA AOUT
+Philippe ABEILHOU OpenClassrooms P7 GROUPOMANIA AOUT 2020
