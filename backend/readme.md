@@ -13,11 +13,10 @@ BACKEND:
 - backend / .env -> mettre les bons paramètres pour la connexion à la base de donnée SQL
             Il y a 1 seul user déjà enregistrée:    
             Email: philbee@groupomania.fr   Mdp: secret       
-            -> il est chargée de communication (level 4) et à accès au menu admin une fois connectée
+            -> il est chargé de communication (level 4) et à accès au menu admin une fois connecté
 - lancer le serveur avec : nodemon serve
 
 FRONTEND:
-- rien à faire à priori
 - lancer le serveur avec : npm run serve
 
 
