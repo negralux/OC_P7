@@ -1,1 +1,8 @@
-lisMoi
+Parcours 7 Openclassrooms Parcours 7
+
+Creez un reseau social d'entreprise
+
+2 dossiers:
+FRONTEND
+BACKEND
+Un README dans chaque dossier fournit les instructions d'insatallation
