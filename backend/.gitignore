@@ -1,0 +1,3 @@
+node_modules
+
+##normalement en production mettre fichier .env pour ne pas montrer les params de config
